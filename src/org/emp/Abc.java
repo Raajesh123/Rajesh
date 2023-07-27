@@ -1,6 +1,9 @@
 package org.emp;
 
 public class Abc {
+	private void m6() {
+ System.out.println("Rajesh");
+	}
 	private void m5() {
 		System.out.println("giri");
 			}
